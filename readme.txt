@@ -1,0 +1,1 @@
+обе папки скопировать в C:\Users\"Username"\Documents\Arduino
