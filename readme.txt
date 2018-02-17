@@ -1,1 +1,1 @@
-обе папки скопировать в C:\Users\"Username"\Documents\Arduino
+copy both folders to C:\Users\"Username"\Documents\Arduino
